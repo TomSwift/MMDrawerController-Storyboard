@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name         = "MMDrawerController-Storyboard"
+  s.name         = "MMDrawerController+Storyboard"
   s.version      = "0.0.1"
   s.summary      = "Storyboard category extension for MMDrawerController"
   s.homepage     = "https://github.com/TomSwift/MMDrawerController-Storyboard"
